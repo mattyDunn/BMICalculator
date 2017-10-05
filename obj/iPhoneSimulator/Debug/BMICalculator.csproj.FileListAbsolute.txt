@@ -1,0 +1,9 @@
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/BMICalculator/BMICalculator/bin/iPhoneSimulator/Debug/BMICalculator.exe
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/BMICalculator/BMICalculator/bin/iPhoneSimulator/Debug/BMICalculator.pdb
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.csproj.CoreCompileInputs.cache
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.exe
+/Users/matthewd1/Desktop/Repos/Visual Studio Projects/BMICalculator/BMICalculator/obj/iPhoneSimulator/Debug/BMICalculator.pdb
